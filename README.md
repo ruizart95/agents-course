@@ -1,9 +1,5 @@
 # <a href="https://hf.co/learn/agents-course" target="_blank">The Hugging Face Agents Course</a>
 
-FORKED FROM:
-
-<img src="https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/communication/please_star.gif" alt="Star the repo" />
-
 ## Content
 
 The course is divided into 5 units. These will take you from **the basics of agents to a final assignment with a benchmark**.
